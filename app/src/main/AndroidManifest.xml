@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".RssActivity" />
-        <activity android:name=".BlueFragment"></activity>
+        <activity android:name=".WebView" />
+        <activity android:name=".DataRss"></activity>
     </application>
 
 </manifest>
